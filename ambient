@@ -1,0 +1,3 @@
+Ambient music seems like a promising paradigm for sonifying sparse datasets.
+Fit a regression, then choose frequencies and whatnot based on the regression
+predictions over the time variable.
